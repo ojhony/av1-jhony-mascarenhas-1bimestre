@@ -2,11 +2,22 @@ body {
     background-color:darkkhaki
 }
 
-p {
-    color:aqua;
+
+.div-texto {
+    background-color: white;
 }
 
-.div1 {
-    
-    color:blue;
+.div-texto2 {
+    background-color: violet;
+}
+
+.div-texto3 {
+    background-color: rgb(141, 110, 110);
+}
+
+.div-texto4 {
+    background-color:brown;
+}
+.div-texto5 {
+    background-color:blue;
 }
